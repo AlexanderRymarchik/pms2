@@ -1,0 +1,31 @@
+--2014-03-12 16:42:08--  http://pogoda.yandex.by/
+Распознаётся pogoda.yandex.by (pogoda.yandex.by)... 87.250.251.247, 93.158.134.247, 213.180.193.247, ...
+Подключение к pogoda.yandex.by (pogoda.yandex.by)|87.250.251.247|:80... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа... 302 Found
+Адрес: /minsk/ [переход]
+--2014-03-12 16:42:08--  http://pogoda.yandex.by/minsk/
+Повторное использование соединения с pogoda.yandex.by:80.
+HTTP-запрос отправлен. Ожидание ответа... 302 Found
+Адрес: http://pass.yandex.by/?retpath=http%3A%2F%2Fpogoda.yandex.by%2Fminsk%2F [переход]
+--2014-03-12 16:42:08--  http://pass.yandex.by/?retpath=http%3A%2F%2Fpogoda.yandex.by%2Fminsk%2F
+Распознаётся pass.yandex.by (pass.yandex.by)... 213.180.204.47
+Подключение к pass.yandex.by (pass.yandex.by)|213.180.204.47|:80... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа... 302 Moved Temporarily
+Адрес: http://pass.yandex.ru/?retpath=http%3A%2F%2Fpogoda.yandex.by%2Fminsk%2F&origsah=FFFFFFFF&ncrnd=9095 [переход]
+--2014-03-12 16:42:09--  http://pass.yandex.ru/?retpath=http%3A%2F%2Fpogoda.yandex.by%2Fminsk%2F&origsah=FFFFFFFF&ncrnd=9095
+Распознаётся pass.yandex.ru (pass.yandex.ru)... 213.180.193.51, 213.180.204.51, 77.88.21.51, ...
+Подключение к pass.yandex.ru (pass.yandex.ru)|213.180.193.51|:80... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа... 302 Moved Temporarily
+Адрес: http://pass.yandex.by/?retpath=http%3A%2F%2Fpogoda.yandex.by%2Fminsk%2F&session_info=noauth%3A1394631730.sah%5EFFFFFFFF.yandexuid%5E5912876511394631730.yandex_by%3A52153.652758.3df7eaa721b405fa3d88fba17e7d4bb9&origsah=FFFFFFFF [переход]
+--2014-03-12 16:42:09--  http://pass.yandex.by/?retpath=http%3A%2F%2Fpogoda.yandex.by%2Fminsk%2F&session_info=noauth%3A1394631730.sah%5EFFFFFFFF.yandexuid%5E5912876511394631730.yandex_by%3A52153.652758.3df7eaa721b405fa3d88fba17e7d4bb9&origsah=FFFFFFFF
+Подключение к pass.yandex.by (pass.yandex.by)|213.180.204.47|:80... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа... 302 Moved Temporarily
+Адрес: http://pogoda.yandex.by/minsk/?ncrnd=5526 [переход]
+--2014-03-12 16:42:09--  http://pogoda.yandex.by/minsk/?ncrnd=5526
+Подключение к pogoda.yandex.by (pogoda.yandex.by)|87.250.251.247|:80... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа... 302 Found
+Адрес: http://tune.yandex.by/api/my/v1.1/my.xml?param=157&block=40&sk=y5d2e3df2b811f8854b7aaed78b163279&retpath=http%3A%2F%2Fpogoda.yandex.by%2Fminsk%2F%3Fncrnd%3D5526 [переход]
+--2014-03-12 16:42:09--  http://tune.yandex.by/api/my/v1.1/my.xml?param=157&block=40&sk=y5d2e3df2b811f8854b7aaed78b163279&retpath=http%3A%2F%2Fpogoda.yandex.by%2Fminsk%2F%3Fncrnd%3D5526
+Распознаётся tune.yandex.by (tune.yandex.by)... 213.180.204.171
+Подключение к tune.yandex.by (tune.yandex.by)|213.180.204.171|:80... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа... 
