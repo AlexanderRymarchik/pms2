@@ -1,8 +1,0 @@
-while true
-do
-	wget -o wget.log 'http://pogoda.yandex.by/' -O weather
-	grep -m 1 '<div class="b-thermometer__now">' weather > temp
-	echo $(sed 's/[^+9]//g' temp)
-	rm -r temp weather
-	sleep $(cat time)
-done
